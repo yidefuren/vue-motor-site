@@ -1,0 +1,25 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "春风250NK又被偷袭了 这事该这么看？",
+    "bannerImg": "http://img.newmotor.com.cn/UploadFiles/2018-01/176/damaifu12e.jpg",
+    "gallaryImgs": ["http://img.newmotor.com.cn/UploadFiles/2018-01/176/damaifu12e.jpg", "http://img.newmotor.com.cn/UploadFiles/2018-03/234/redian11d.jpg"],
+    "categoryList": [{
+        "title": "成人票",
+        "children": [{
+          "title": "成人三馆联票",
+          "children": [{
+            "title": "成人三馆联票 - 某一连锁店销售"
+          }]
+        },{
+          "title": "成人五馆联票"
+        }]
+      }, {
+        "title": "学生票"
+      }, {
+        "title": "儿童票"
+      }, {
+        "title": "特惠票"
+      }]
+  }
+}

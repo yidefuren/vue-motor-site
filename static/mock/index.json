@@ -1,0 +1,103 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "http://img2.newmotor.com.cn/UploadFiles/2018-04/2/2018041111055374360.jpg"
+      },{
+        "id": "0002",
+        "imgUrl": "http://img2.newmotor.com.cn/UploadFiles/2018-04/2/2018041111055374360.jpg"
+      },{
+        "id": "0003",
+        "imgUrl": "http://img2.newmotor.com.cn/UploadFiles/2018-04/2/2018041111055374360.jpg"
+      },{
+        "id": "0004",
+        "imgUrl": "http://img2.newmotor.com.cn/UploadFiles/2018-04/2/2018041111055374360.jpg"
+      }],
+    "iconList": [{
+        "id": "0001",
+        "imgUrl": "https://gw.alicdn.com/tps/TB1d30fPVXXXXbGXXXXXXXXXXXX-183-144.png",
+        "desc": "待定"
+      }, {
+        "id": "0002",
+        "imgUrl": "https://gw.alicdn.com/tps/TB1d30fPVXXXXbGXXXXXXXXXXXX-183-144.png",
+        "desc": "待定"
+      }, {
+        "id": "0003",
+        "imgUrl": "https://gw.alicdn.com/tps/TB1d30fPVXXXXbGXXXXXXXXXXXX-183-144.png",
+        "desc": "待定"
+      }, {
+        "id": "0004",
+        "imgUrl": "https://gw.alicdn.com/tps/TB1d30fPVXXXXbGXXXXXXXXXXXX-183-144.png",
+        "desc": "待定"
+      }, {
+        "id": "0005",
+        "imgUrl": "https://gw.alicdn.com/tps/TB1d30fPVXXXXbGXXXXXXXXXXXX-183-144.png",
+        "desc": "待定"
+      }, {
+        "id": "0006",
+        "imgUrl": "https://gw.alicdn.com/tps/TB1d30fPVXXXXbGXXXXXXXXXXXX-183-144.png",
+        "desc": "待定"
+      }, {
+        "id": "0007",
+        "imgUrl": "https://gw.alicdn.com/tps/TB1d30fPVXXXXbGXXXXXXXXXXXX-183-144.png",
+        "desc": "待定"
+      }, {
+        "id": "0008",
+        "imgUrl": "https://gw.alicdn.com/tps/TB1d30fPVXXXXbGXXXXXXXXXXXX-183-144.png",
+        "desc": "待定"
+      }],
+    "recommendList": [{
+        "id": "0001",
+        "imgUrl": "http://img3.newmotor.com.cn/UploadFiles/2018-03/13188/2018031310285549941_S.jpg",
+        "title": "新大洲本田dio u+ SDH125T-35",
+        "desc": "￥:23657"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://img.newmotor.com.cn/UploadFiles/2018-01/176/2018011916075926235_S.jpg",
+        "title": "春风250NK",
+        "desc": "￥:23657"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://img.newmotor.com.cn/UploadFiles/2018-04/234/2018042409402344977_S.jpg",
+        "title": "豪爵铃木DR160 HJ150-10D",
+        "desc": "￥:23657"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://img2.newmotor.com.cn/UploadFiles/2017-12/66415/2017122817330918133_S.jpg",
+        "title": "宗申MO战 ZS125T-57",
+        "desc": "￥:23657"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://img3.newmotor.com.cn/UploadFiles/2018-04/13188/201804021336152501_S.jpg",
+        "title": "新大洲本田 D1",
+        "desc": "￥:23657"
+      }],
+    "weekendList": [{
+        "id": "0001",
+        "imgUrl": "http://img.newmotor.com.cn/UploadFiles/2018-01/176/damaifu12e.jpg",
+        "title": "春风250NK又被偷袭了 这事该这么看？",
+        "desc": "春风250NK又被偷袭了 这事该这么看"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://img.newmotor.com.cn/UploadFiles/2018-01/176/damaifu12e.jpg",
+        "title": "中国摩托车永远赶不上日本 又该怎么办？",
+        "desc": "中国摩托车永远赶不上日本 又该怎么办？"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://img.newmotor.com.cn/UploadFiles/2018-01/176/damaifu12e.jpg",
+        "title": "春风250NK又被偷袭了 这事该这么看",
+        "desc": "春风250NK又被偷袭了 这事该这么看"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://img.newmotor.com.cn/UploadFiles/2018-01/176/damaifu12e.jpg",
+        "title": "春风250NK又被偷袭了 这事该这么看",
+        "desc": "春风250NK又被偷袭了 这事该这么看"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://img.newmotor.com.cn/UploadFiles/2018-01/176/damaifu12e.jpg",
+        "title": "中国摩托车永远赶不上日本 又该怎么办？",
+        "desc": "中国摩托车永远赶不上日本 又该怎么办？"
+      }]
+  }
+}

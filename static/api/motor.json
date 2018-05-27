@@ -1,0 +1,82 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "豪爵铃木",
+    "bannerImg": "http://img.newmotor.com.cn/UploadFiles/2018-04/234/2018042409402344977.jpg",
+    "gallaryImgs": [
+      "http://img.newmotor.com.cn/UploadFiles/2018-04/234/2018042409402344977.jpg"
+    ],
+    "motorConf": {
+      "modeloVerview": {
+        "name": "DR160",
+        "age": "",
+        "ver": "",
+        "modelNumber": "HJ150-10D",
+        "type": "类型",
+        "brand": "豪爵铃木",
+        "form": "",
+        "timeMarket": "2018/4/21",
+        "pStates": "热销",
+        "offer": "12980",
+        "price": "12954"
+      },
+      "engineConf": {
+        "engine": "162cc",
+        "cylinders": "单缸",
+        "chongcheng": "四冲程",
+        "qimen": "",
+        "peiqi": "SOHC",
+        "yasuobi": "9.65：1",
+        "boreAndStroke ": "60×57.4",
+        "hignPower": "11kw/8000rpm",
+        "hignTorque": "14N.m/6500rpm",
+        "cooling": "风冷",
+        "oilMode": "电喷",
+        "BootMode": "电启动",
+        "officialOil": "3",
+        "TrueOil": "",
+        "huanbao": ""
+      },
+      "dongli": {
+        "biansudangwei": "",
+        "speedType": "5挡 / 国际档",
+        "drivingMode": "链传动"
+      },
+      "carBody": {
+        "carLength": "2000×765×1040",
+        "highChair": "790",
+        "lidixi": "168",
+        "zhouju": "1340",
+        "emptyCarQuality": "",
+        "carWeight": "",
+        "fuelTankCapacity": "",
+        "frameForm": "单脊梁式",
+        "hignSpeed": ""
+      },
+      "wheelBrake": {
+        "lunshu": "2",
+        "wheel": "铸铝车轮",
+        "tireForm": "真空胎",
+        "tyreSizeFront": "100/80-17",
+        "tyreSizeAfter": "100/80-17",
+        "retrosystem": "前单盘 后盘式",
+        "zhidongkeji": "刹车联动技术",
+        "vibrationSystem": "前倒置双减 后中置单减",
+        "xingchengtexing": "前 后"
+      },
+      "otherConf": {
+        "instrument": "液晶式",
+        "lamps": "LED",
+        "handlebar": "一体式",
+        "otherConf": "LED大灯, 磁性中控锁",
+        "dianchiguige": ""
+      },
+      "componentBrand": {
+        "CarburetorAndElectricSpray": "",
+        "tyre": "",
+        "jianzhen": "",
+        "battery": ""
+      }
+    }
+  }
+}
