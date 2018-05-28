@@ -40,7 +40,7 @@ export default {
     .title
       position: relative
       height: .6rem
-      width: 70%
+      display: inline-block
       margin: .14rem 0
       line-height: .6rem
       border-radius: .3rem
